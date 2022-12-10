@@ -2,18 +2,15 @@
 
 <h1 align="center">Ultraviolet-GApp</h1>
 
+This is a skin of [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App).
+
 ~~The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!~~
 
 This is for a Google Site.
 
-## Deployment
+# USAGE (Ultraviolet-GApp):
 
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Deploy-to-Heroku)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Run-on-Replit)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Deploy-on-Railway)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Remix-on-Glitch)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Deploy-to-Koyeb)
+Link to
+https://Ultraviolet-GSite.com/embed.html#https://your-site-to-embed.com/
 
-If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Deploy-via-terminal).
-
-Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/wiki).
+SW registering is handled automatically.
